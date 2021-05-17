@@ -1,0 +1,16 @@
+[
+{
+  "modid": "shadowmurdermysteryrmod",
+  "name": "Shadow Murder Mystery Mod",
+  "description": "Mod for the Hypixel minigame Murder Mystery. Works for Classic and Doubles Up Mode",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["_shadow_storm_"],
+  "credits": "_shadow_storm_ for making this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
