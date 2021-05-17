@@ -1,2 +1,3 @@
 # ShadowMurderMysteryMod
-Minecraft hack for Hypixel minigame Murder Mystery
+Minecraft hack for Hypixel minigame Murder Mystery  
+This mod will help you win at Murder Mystery Classic and Murder Mystery Double Up modes on the Hypixel server. If you are the murderer, the mod will draw tracers to all players to allow you to quickly find any hiding players. If you are innocent, the mod will draw tracers the the murderer(s) once they hold their sword. The tracer colors change depending on the distance of the murderer to you. Red means they are very close while yellow means they are farther away. Also, the mod draws a tracer to the nearest piece of gold to allow you to quickly get a bow.
